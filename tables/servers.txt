@@ -524,3 +524,13 @@ serverEncoding Western
 charBlockSize 112
 chatLangCode 0
 addTableFolders pserver/AegisRO;eA;kRO/RagexeRE_2010_07_14a;translated/kRO_english;kRO
+
+[Ragnarok - Re:Start]
+ip 128.241.92.134
+port 6800
+version 18
+master_version 1
+serverType iRO
+addTableFolders iRO
+serverEncoding Western
+charBlockSize 147
